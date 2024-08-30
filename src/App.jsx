@@ -27,7 +27,7 @@ function App() {
           <WalletMultiButton></WalletMultiButton>
           <WalletDisconnectButton></WalletDisconnectButton>
           <div>Hi Web-3 Dapp</div>
-          // <Airdrop />
+          <Airdrop />
         </WalletModalProvider>
       </WalletProvider>
     </ConnectionProvider>
